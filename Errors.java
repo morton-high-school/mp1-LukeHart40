@@ -7,7 +7,7 @@ Public class Error{
     String animal = "duck";
     System.out.println("My name is " + Name + " and I am a " + animal + ".");
 
-    Int weight = 90;
+    int weight = 90;
     int volume = 8;
     double density = weight/volume; // Should be the correct precise value.
 
