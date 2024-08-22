@@ -3,7 +3,7 @@
 
 public class Error{
   public static main(string[] args){
-    String name = "Alan"
+    String name = "Alan";
     String animal = "duck";
     System.out.println("My name is " + Name + " and I am a " + animal + ".");
 
