@@ -11,7 +11,7 @@ public class Error{
     int volume = 8;
     double density = weight/volume; // Should be the correct precise value.
 
-    System.out.println("I am a heavy " + animal + " because I have a density of " + dense + " kilograms per cubic centimeter.");
+    System.out.println("I am a heavy " + animal + " because I have a density of " + density + " kilograms per cubic centimeter.");
 
     System.out.println("It was nice meeting you!");
   }
